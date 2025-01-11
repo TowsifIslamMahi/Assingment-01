@@ -12,17 +12,17 @@
 
 .main{
   border-radius: 10px;
-  width: 1700px;
-  height: 400px;
+  
+  max-width: 1140;
+  margin: 0 auto;
   
   
 }
 
-.fira-sans-extrabold{
+/* .fira-sans-extrabold{
   /* font-family: "Fira Sans", serif; */
-  font-weight: 700;
-  font-style: normal;
-}
+
+
 
 .bd{
   margin-left: 44.5px;
@@ -38,12 +38,10 @@
 }
 
 .new{
-  margin-left: 1000px;
-  width: 400px;
-  height: 300px;
-  margin-top: -1000px;
-  margin-bottom: -90px;
-}
+ margin-left: 1000px;
+ /* margin-top: -1000px; */
+ margin-bottom: 100;
+} 
 
 .btn{
   border-radius: 10px;
@@ -462,8 +460,8 @@ input[type="text"]{
     padding-top: 70px;
     /* padding-right: 40px; */
     margin-left: 20px;
+    font-size: 16px;
   }
- 
   .new-1{
     border-radius: 10px;
   width: 1280px;
@@ -478,14 +476,14 @@ input[type="text"]{
  .old{
      border-radius: 10px;
     
-       margin-left: 20px; 
+     margin-left: 20px; 
      margin-right: 850px;
      margin-top: -200px;
-/*      margin-bottom: 30px; */
+     /* margin-bottom: 30px; */
 
    
     
-/*      width: 42px;
+     /* width: 42px;
     height: 30px;  */
     display: flex;
     
