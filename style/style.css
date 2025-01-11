@@ -478,15 +478,15 @@ input[type="text"]{
  .old{
      border-radius: 10px;
     
-     margin-left: 10px; 
-     margin-right: 800px;
-     margin-top:-215px;
-     margin-bottom: 30px;
+       margin-left: 20px; 
+     margin-right: 850px;
+     margin-top: -200px;
+/*      margin-bottom: 30px; */
 
    
     
-     width: 42px;
-    height: 30px; 
+/*      width: 42px;
+    height: 30px;  */
     display: flex;
     
     
